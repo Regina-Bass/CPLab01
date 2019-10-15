@@ -4,6 +4,7 @@ Uses swift to create an app that pulls and displays data (photos) from Tumblr's 
 Codepath Lab 01
 
 ## Things I learned
+Workspace vs CodeProj; Dequeued tables
 ### How to install and use CocoaPods - (Ruby comes with new OS X installations)
                         sudo gem install -n /usr/local/bin cocoapods     # Install CocoaPods gem
                         pod setup                                        # Clones the CocoaPods specs repo to ~/.cocoapods
@@ -18,14 +19,11 @@ Codepath Lab 01
                         CMD + Shift + B : Analyze?
                         CMD + Shift + K : clean
                   
-Opening Workspace as oppsed to CodeProj
-Dequeued tables
-
 ## Demo
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/gifs/YnxJ2LizIsC0B6hTZv?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=' title='Demo' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/YnxJ2LizIsC0B6hTZv/giphy.mp4' title='Demo' width='' alt='Video Walkthrough' />
 
 GIF created with [Giphy](http://www.giphy.com)
 
