@@ -25,7 +25,7 @@ Dequeued tables
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/YnxJ2LizIsC0B6hTZv/giphy.gif' title='Demo' width='' alt='Video Walkthrough' />
+<img src='https://giphy.com/gifs/YnxJ2LizIsC0B6hTZv/html5' title='Demo' width='' alt='Video Walkthrough' />
 
 GIF created with [Giphy](http://www.giphy.com)
 
