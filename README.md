@@ -23,9 +23,7 @@ Workspace vs CodeProj; Dequeued tables
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/h2TuucrqVKvMhq4I2c/giphy.gif' title='Demo' width='' alt='Video Walkthrough' />
-
-GIF created with [Giphy](http://www.giphy.com)
+<img src="https://i.imgur.com/oZgEUgT.gif" width=200px>
 
 
                   
